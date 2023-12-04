@@ -91,4 +91,10 @@ h1{
 	cursor: pointer;
 	font-weight: 700;
 }
-
+.subscribe:hover {
+	background-image: linear-gradient(to right ,hsl(4, 84%, 54%)
+,hsl(4, 91%, 70%)
+);
+box-shadow: 0px 5px 20px hsl(4, 100%, 67%)
+;
+}
